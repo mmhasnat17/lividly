@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/mohammedhasnat/.local/share/virtualenvs/lividly-R1QP5ARR/bin/python"
+}
