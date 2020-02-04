@@ -1,4 +1,4 @@
-* ividly
+Lividly app below:
 
 A movie rating website and api that provides movie name, genre, daily rate, and stock availability
 
